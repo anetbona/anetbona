@@ -2,7 +2,7 @@
 
 AI Product Builder and Product Manager. I take products from discovery through prototype to launch, build them myself with Lovable and Claude Code, and check what users actually do with them in PostHog.
 
-Before this I spent 7 years in UX/Product at Samsung R&D, most recently on AI/LLM projects. I trained as an architect at Warsaw University of Technology, then moved into UX with a postgrad at SWPS. On the side I run a 10-person volunteer UX team at the K.I.D.S. Foundation.
+7+ years in UX/Product at Samsung R&D, recently on AI/LLM projects. I trained as an architect at Warsaw University of Technology, then moved into UX with a postgrad at SWPS. On the side I run a 10-person volunteer UX team at the K.I.D.S. Foundation.
 
 Stack I reach for: React/TypeScript, Supabase, Tailwind, PostHog.
 
