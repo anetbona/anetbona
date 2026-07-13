@@ -2,7 +2,7 @@
 
 **AI Product Builder & Product Manager** — I design, build, and measure AI-powered products end to end: discovery → prototype → analytics.
 
-- 🏗️ 7 years in UX/Product (Samsung R&D — senior UX/UI, currently AI/LLM projects)
+- 🏗️ 7+ years in UX/Product (Samsung R&D — UX/UI, currently AI/LLM projects)
 - 📐 Background in architecture (Warsaw University of Technology) + UX postgrad (SWPS)
 - 🤝 Leading a 10-person volunteer UX team at K.I.D.S. Foundation
 - ⚙️ How I build: Lovable · Claude Code · PostHog · React/TypeScript · Supabase
